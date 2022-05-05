@@ -53,6 +53,15 @@ Then download the Unity package from this github to install straight into your p
 
 
  ## ChangeLog
+ ### 0.0.7.1
+ - Add support for PC devices
+ - Add support for multiple projects
+ - Notes:
+    - Please, note that this project may contain some failures because it's a non-oficial release
+    - Because some restrictions on server side, the projects that use the PC option, will appear as a Android device, so [dashboard](https://dashboard.bytebrew.io/register) register the project as a Android device
+    - To Properly update the SDK, make sure to remove the whole "ByteBrewSDK" folder and reimport the new SDK, and don't forget to re-input your SDK Keys.
+ 
+
  ### 0.0.7
  - Update to ByteBrew Unity SDK
  - Additions:
